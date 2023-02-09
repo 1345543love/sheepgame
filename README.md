@@ -1,4 +1,4 @@
-# sheepgame
+# sheep a sheep
 # 羊了个羊小游戏模拟
 
 ### 1.代码逻辑：
