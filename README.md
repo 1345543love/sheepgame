@@ -244,3 +244,5 @@ import java.awt.*;
 #### 总结：
 
 一个map有多个layer，一个layer有多个cell，一个cell有0张或者1张brand，一张brand有两种状态。
+![屏幕截图 2023-02-10 085301](https://user-images.githubusercontent.com/97274791/217972923-a7c5a698-802c-4759-8ac1-bff0ef3b4497.png)
+
